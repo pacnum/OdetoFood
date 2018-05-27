@@ -21,5 +21,7 @@ namespace OdetoFood
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+
+
     }
 }
